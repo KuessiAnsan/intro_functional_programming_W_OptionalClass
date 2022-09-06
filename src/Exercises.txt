@@ -1,0 +1,17 @@
+Exercise 1
+//Print only odd numbers from the list
+
+Exercise 2
+//Print all courses individually
+
+Exercise 3
+//Print Courses Containing the word "Spring"
+
+Exercise 4
+//Print Courses Whose Name has at least 4 letters
+
+Exercise 5
+//Print the cubes of odd numbers
+
+Exercise 6
+//Print the number of characters in each course name
